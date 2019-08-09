@@ -1,0 +1,29 @@
+.searchBar{
+  width:60%;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.searchBar input{
+  width:69%;
+}
+
+.searchBar button{
+  width:30%;
+}
+.searchBar select{
+  width:25%;
+}
+
+.searchResults{
+  width:70%;
+  margin-left: 15%;
+}
+
+.searchResults h2{
+  text-align: center;
+}
+
+.Search{
+  width:100%;
+}
